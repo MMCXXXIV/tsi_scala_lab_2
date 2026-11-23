@@ -1,0 +1,14 @@
+target/
+project/target/
+.idea/
+.bsp/
+.metals/
+.bloop/
+out/
+*.class
+*.log
+*.iws
+*.iml
+*.ipr
+.DS_Store
+output_csv/
